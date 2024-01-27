@@ -66,6 +66,7 @@ button:hover{
 }
 .percentage{
     color:darkgreen;
+    font-weight: 700;
 }
 table {
     display: flex;
